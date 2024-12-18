@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #222;
+    font-family: Helvetica, Sans-serif;
+}
+
+.contenidor{
+    position: relative;
+    width: auto;
+    height: auto;
+    
+
+}
+
+.capçalera{
+    background: no-repeat black ;
+    height: 50px;
+    width: 100px;
+    width: auto;
+    float: left;
+    color: #ccc;
+
+
+}
+.logo{
+    margin: 5px 20px;
+}
+ul {
+
+    margin: 5px;
+
+}
+li {
+    display: inline;
+    padding: 0 0 0 0;
+}
+.redes{
+
+
+    text-align: right;
+}
+
+
+
+
+
+h1{
+
+    color: #fff;
+    width: 175px;
+    margin: 15px ;
+    font-size: 22px;
+
+}
+.entrada{
+    width: 175px;
+    padding: 10px;
+    float: left;
+    margin: 0;
+
+
+
+}
+.entrada .nom{
+    color: #ccc;
+    font-size: 14px;
+    margin: 0 0 5px 0;
+}
+.entrada .any{
+    float: left;
+}
+.entrada p{
+    color: #ccc;
+    font-size: 11px;
+    float: left;
+
+    
+}
+
+.esquerra{
+
+    margin: 0;
+    float: left;
+}
+.dreta {
+
+
+    margin: 0;
+    float: right;
+    overflow: hidden;
+
+}
